@@ -1,0 +1,3 @@
+﻿  LineManager.cpp
+c:\users\sharan\documents\seneca\oop345\milestone\assemblyline\assemblyline\linemanager.cpp(8): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  AssemblyLine.vcxproj -> C:\Users\Sharan\Documents\Seneca\OOP345\Milestone\AssemblyLine\x64\Debug\AssemblyLine.exe

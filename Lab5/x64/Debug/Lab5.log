@@ -1,0 +1,5 @@
+﻿  Grades.cpp
+  W5.cpp
+  Generating Code...
+c:\users\sharan\documents\seneca\oop345\lab5\letter.h(44): warning C4715: 'sict::convertLetter<enum sict::Letter>': not all control paths return a value
+  Lab5.vcxproj -> C:\Users\Sharan\Documents\Seneca\OOP345\Lab5\x64\Debug\Lab5.exe

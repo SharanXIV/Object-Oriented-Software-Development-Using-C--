@@ -1,0 +1,5 @@
+﻿  w3.cpp
+c:\users\sharan\documents\seneca\oop345\lab3\lab3\w3.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\sharan\documents\seneca\oop345\lab3\lab3\w3.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\sharan\documents\seneca\oop345\lab3\lab3\w3.cpp(14): warning C4101: 'width': unreferenced local variable
+  Lab3.vcxproj -> C:\Users\Sharan\Documents\Seneca\OOP345\Lab3\Lab3\Debug\Lab3.exe

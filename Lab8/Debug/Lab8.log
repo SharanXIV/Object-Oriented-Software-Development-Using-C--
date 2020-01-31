@@ -1,0 +1,4 @@
+﻿  w8.cpp
+c:\users\sharan\documents\seneca\oop345\lab8\w8.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\sharan\documents\seneca\oop345\lab8\w8.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  Lab8.vcxproj -> C:\Users\Sharan\Documents\Seneca\OOP345\Lab8\Debug\Lab8.exe

@@ -1,0 +1,6 @@
+﻿  w7.cpp
+c:\users\sharan\documents\seneca\oop345\lab7\datatable.h(86): warning C4018: '<': signed/unsigned mismatch
+  c:\users\sharan\documents\seneca\oop345\lab7\datatable.h(80): note: while compiling class template member function 'void w7::DataTable<float>::display(std::ostream &) const'
+  c:\users\sharan\documents\seneca\oop345\lab7\datatable.h(97): note: see reference to function template instantiation 'void w7::DataTable<float>::display(std::ostream &) const' being compiled
+  c:\users\sharan\documents\seneca\oop345\lab7\w7.cpp(33): note: see reference to class template instantiation 'w7::DataTable<float>' being compiled
+  Lab7.vcxproj -> C:\Users\Sharan\Documents\Seneca\OOP345\Lab7\Debug\Lab7.exe
